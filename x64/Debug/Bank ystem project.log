@@ -1,0 +1,53 @@
+﻿  Admin.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+  AdminManager.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+  Bank ystem project.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Bank ystem project.cpp(25,6): warning C4101: 'x': unreferenced local variable
+  Client.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+  ClientManager.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\ClientManager.cpp(225,14): warning C4101: 'id': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\ClientManager.cpp(223,9): warning C4101: 'res': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\ClientManager.cpp(226,9): warning C4101: 'amount': unreferenced local variable
+  DataSource.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+  Employee.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+  EmployeeManager.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+  FileManager.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+  FilesHelper.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+  Log.cpp
+  Parser.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+  Person.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+  Screen.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+  Validation.cpp
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(94,10): warning C4101: 'op': unreferenced local variable
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\Validation.h(161,7): warning C4101: 'op': unreferenced local variable
+  Generating Code...
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\ClientManager.cpp(66): warning C4715: 'ClientManager::login': not all control paths return a value
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\ClientManager.cpp(140): warning C4715: 'ClientManager::depositting': not all control paths return a value
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\AdminManager.cpp(40): warning C4715: 'AdminManager::enterSalary': not all control paths return a value
+C:\Users\Cyber\source\repos\Bank ystem project\Bank ystem project\AdminManager.cpp(191): warning C4717: 'AdminManager::getOption': recursive on all control paths, function will cause runtime stack overflow
+  Bank ystem project.vcxproj -> C:\Users\Cyber\source\repos\Bank ystem project\x64\Debug\Bank ystem project.exe
